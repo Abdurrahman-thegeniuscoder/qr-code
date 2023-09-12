@@ -49,5 +49,5 @@ I had a grip on:
 ## Author
 
 - Website - [Abdurrahman Babayemi](https://abdurrahman-thegeniuscoder.github.io/cv/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/genius-code-124)
+- Frontend Mentor - [@geniuscode124](https://www.frontendmentor.io/profile/genius-code-124)
 - Twitter - [@geniuscode124](https://www.twitter.com/@geniuscode124)
