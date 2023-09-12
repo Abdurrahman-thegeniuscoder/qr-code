@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/Abdurrahman-thegeniuscoder/qr-code)
+- Live Site URL: [Vercel Link](https://qr-code-livid-gamma.vercel.app/)
 
 ## My process
 
@@ -49,5 +49,5 @@ I had a grip on:
 ## Author
 
 - Website - [Abdurrahman Babayemi](https://abdurrahman-thegeniuscoder.github.io/cv/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/genius-code-124)
 - Twitter - [@geniuscode124](https://www.twitter.com/@geniuscode124)
